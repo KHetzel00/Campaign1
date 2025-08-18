@@ -1,4 +1,4 @@
-#Preamble
+# Preamble
 
 The point of this lore doc is to let you guys know the inner workings of the Church of Bahamut and their belief system.
 
@@ -9,7 +9,7 @@ Definitions I’m using just to keep us on the same page
 - Clergy - priests, paladins, and clerics of the order
   
 
-#Orders and Hierarchy
+# Orders and Hierarchy
 
 While anyone is welcome to join the church and attend services, only dragonborn may be a member of the clergy
 
@@ -31,7 +31,7 @@ Similarly, joining an order is optional. While most members of the clergy are in
 
   
 
-##Order of Platinum/Ruby
+### Order of Platinum/Ruby
 
 - Reserved for the highest ranking members of the other orders.
     
@@ -44,33 +44,33 @@ Similarly, joining an order is optional. While most members of the clergy are in
 - A metallic dragonborn that has gone through the process of becoming an Archpriest, Grandmaster Paladin, and Archcleric may become a Champion of Sardior
     
 
-##Order of Gold/Amethyst
+### Order of Gold/Amethyst
 
 - The Order of Gold primarily associates itself with preserving order and justice, primarily through quests
     
 - The “Swords” of Bahamut
     
 
-##Order of Silver/Sapphire
+### Order of Silver/Sapphire
 
 - The Order of Silver primarily associates itself with protecting cities, towns, and villages from external threats
     
 - The “Shields” of Bahamut
     
 
-##Order of Bronze
+### Order of Bronze
 
 - The Order of Bronze primarily associates itself with public works and preservation of knowledge
     
 - Note the knowledge the Order of Bronze preserves is that of engineering and the sciences, knowledge of history and culture is preserved by the Order of Brass
     
 
-##Order of Brass/Emerald
+### Order of Brass/Emerald
 
 - The Order of Brass primarily associates itself with preserving history, lore, and culture
     
 
-##Order of Copper
+### Order of Copper
 
 - The Order of Copper primarily associates itself with the arts and artisanry
     
@@ -79,14 +79,14 @@ Similarly, joining an order is optional. While most members of the clergy are in
 - Usually a given church in a city, town, or village will have at least 1 or 2 members of the Order of Copper guaranteed
     
 
-##Order of Crystal
+### Order of Crystal
 
 - Doctors and caregivers
     
 - Mostly non clergy and civilian
     
 
-##Order of Topaz
+### Order of Topaz
 
 - Perform funeral rites
     
@@ -102,7 +102,7 @@ Make note once again while the orders and this hierarchy do give structure to th
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeNrCfgXqatyw31CWOE9LVvvH08uduDk7WU_5Tmt2BYJ37SM-fNaU4casNAfalKLtcLNP_-le-sRG0oy23wNuWTPU_Dp60gJoRZfx6HZIA1Oud__rZFSB1L4qQjZ9HqHkf0uJ-KMQ?key=JeZ_4VYHXOgGh9tGvdFHTQ)
 
-#Church Operations and Belief System
+# Church Operations and Belief System
 
 The church does several unorthodox things that are quite strange compared to other religions on Oerth.
 
