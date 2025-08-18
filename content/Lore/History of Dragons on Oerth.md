@@ -1,8 +1,8 @@
 The following beliefs are held by those who worship the dragon gods, what is truth and what is legend have been lost to history.
-
   
 
 # Origins
+
 Dragons are almost as old as Oerth itself. Their progenitor, Io, created Oerth from the void.  
   
 Shortly after the creation of Oerth Io sought to fill his new empty world, so he created for himself three children: His daughter Tiamat and his sons Bahamut and Sardior. 
@@ -60,7 +60,5 @@ With that the war ended, the remaining dragons and dragonborn dispersed across t
   
 
 # Dragonborn in the World Today
-
-  
 
 While dragonborn are free beings, not bound by the alignment of their dragon forebears, many dragonborn clans hold intense prejudices against each other that stem back from the Dragon War. Many metallic dragonborn see chromatic dragonborn as lesser beings waiting for any chance to assist in bringing Tiamat back to destroy the world.
