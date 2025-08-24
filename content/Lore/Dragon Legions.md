@@ -110,6 +110,7 @@ Since a given situation may call for any type of ranged weapon companies are ass
 * 4 Companies of each Division are expected to master longbows
 * 3 Companies of each Division are expected to master muskets
 * 3 Companies of each Division are expected to master heavy crossbows
+
 While every company can be used in ranged combat usually only 2-3 per division will be used for ranged all at once (usually 1 longbow with 1-2 of either musket or crossbow)
 
 Longbows: Called upon in almost every situation, often supplementing the other two
