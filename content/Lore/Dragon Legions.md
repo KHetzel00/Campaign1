@@ -9,9 +9,13 @@ The Legions do break the mold however, allowing non-clergy members among their r
 Legions number in size of ~20,000 soldiers. (Leadership and the honor guard are not counted in this number)
 
 10 Soldiers (2-8 Paladins, 2 Clerics, 0-6 Axillary soldiers) = Squad (Leader, Second in Command)
+
 10 Squads = Company(Leader, Second in Command, Standard Bearer)
+
 10 Companies = Division(Leader, Second in Command, Standard Bearer)
+
 10 Divisions = Army (Leader, Second in Command, Standard Bearer) 
+
 2 Armies = Legion (Champion, Second in Command, Standard Bearer, +100 of the Champions greatest warriors which fight directly alongside them)
 
 Each Legion is marked by a number from 1-5, though these numbers do not correlate to importance, simply the order in which they were founded
