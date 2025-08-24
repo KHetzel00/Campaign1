@@ -28,7 +28,7 @@ Similarly, joining an order is optional. While most members of the clergy are in
 - Acts as a high council of sorts
 - Never more than 20 members at a time (3 from each order (except Crystal and Topaz) : one Archpriest, one Grandmaster Paladin, and one Archcleric) and 5 Champions. 
 - A metallic dragonborn that has gone through the process of becoming an Archpriest, Grandmaster Paladin, and Archcleric may become a Champion of Bahamut
-- A metallic dragonborn that has gone through the process of becoming an Archpriest, Grandmaster Paladin, and Archcleric may become a Champion of Sardior
+- A gem dragonborn that has gone through the process of becoming an Archpriest, Grandmaster Paladin, and Archcleric may become a Champion of Sardior
 
 
 ### Order of Gold/Amethyst
